@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>https://leslie89xlxiao.github.io/about/</loc>
-    <lastmod>2016-03-20T23:28:02+08:00</lastmod>
+    <loc>https://leslie89xlxiao.github.io/post/python/dev-tools/virtualenv-and-virtualenvwrapper/</loc>
+    <lastmod>2018-06-01T04:29:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://leslie89xlxiao.github.io/post/first/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <loc>https://leslie89xlxiao.github.io/about/</loc>
+    <lastmod>2016-03-20T23:28:02+08:00</lastmod>
   </url>
   
   <url>
@@ -23,19 +23,7 @@
   </url>
   
   <url>
-    <loc>https://leslie89xlxiao.github.io/tags/bar/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://leslie89xlxiao.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leslie89xlxiao.github.io/tags/foo/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,8 +46,20 @@
   </url>
   
   <url>
+    <loc>https://leslie89xlxiao.github.io/categories/python-dev-tools1/</loc>
+    <lastmod>2018-06-01T04:29:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leslie89xlxiao.github.io/categories/pythonhello/</loc>
+    <lastmod>2018-06-01T04:29:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://leslie89xlxiao.github.io/tags/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <lastmod>2018-06-01T04:29:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,12 +72,6 @@
   <url>
     <loc>https://leslie89xlxiao.github.io/feed.xml</loc>
     <lastmod>2018-06-01T04:29:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leslie89xlxiao.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
