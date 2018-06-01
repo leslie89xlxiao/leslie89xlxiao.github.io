@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>币圈龙哥</title>
+    <link>http://leslie89xlxiao.github.io/feed.xml</link>
+    <description>Recent content on 币圈龙哥</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 01 Jun 2018 04:29:05 +0800</lastBuildDate>
+    
+	<atom:link href="http://leslie89xlxiao.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. virtualenv and virtualenvwrapper</title>
+      <link>http://leslie89xlxiao.github.io/post/python-dev-tools/virtualenv-and-virtualenvwrapper/</link>
+      <pubDate>Fri, 01 Jun 2018 04:29:05 +0800</pubDate>
+      
+      <guid>http://leslie89xlxiao.github.io/post/python-dev-tools/virtualenv-and-virtualenvwrapper/</guid>
+      <description>virtualenv and virtualenvwrapper (1) 安装 $ pip install virtualenv virtualenvwrapper def hello(name): print name</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://leslie89xlxiao.github.io/about/</link>
+      <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
+      
+      <guid>http://leslie89xlxiao.github.io/about/</guid>
+      <description>关于 Hugo 主题 balabalbalbalbal&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://leslie89xlxiao.github.io/post/first/</link>
+      <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
+      
+      <guid>http://leslie89xlxiao.github.io/post/first/</guid>
+      <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
+    </item>
+    
+    <item>
+      <title>2. git-crypts</title>
+      <link>http://leslie89xlxiao.github.io/post/python-dev-tools/git-crypt/</link>
+      <pubDate>Sat, 20 Feb 2016 15:34:05 +0800</pubDate>
+      
+      <guid>http://leslie89xlxiao.github.io/post/python-dev-tools/git-crypt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
